@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ToolBarWithNavigationBack">
+        <item name="android:navigationIcon">@drawable/abc_ic_ab_back_material</item>
+    </style>
+</resources>
